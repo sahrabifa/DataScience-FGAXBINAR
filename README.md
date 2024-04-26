@@ -10,8 +10,8 @@ Link Dashboard:
 https://lookerstudio.google.com/u/0/reporting/30bdf289-5748-4aee-baa5-913c58a03320/page/A3BrD
 
 ## Project 2
-Problem Statement:
+#### Problem Statement:
 The increasing use of the internet as a communication tool has created a competitive environment in the telecommunications industry, which increases the potential for customer churn. Telecommunication companies need to understand and anticipate customer churn behavior to minimize its negative impact on company revenue.
 
-Objective:
+#### Objective:
 Analyze the pattern of customer churn behavior and Develop an effective prediction model to identify customers who have the potential to churn.
